@@ -1,0 +1,10 @@
+gunicorn
+google-api-core
+google-auth
+google-cloud-core
+google-cloud-storage
+google-resumable-media
+googleapis-common-protos
+pandas
+dash
+plotly

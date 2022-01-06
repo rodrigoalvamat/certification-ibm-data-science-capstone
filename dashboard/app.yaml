@@ -1,0 +1,4 @@
+#service: ibm-course-capstone-dashboard
+runtime: python38
+
+entrypoint: gunicorn -b 0.0.0.0:8080 main:server
