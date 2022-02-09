@@ -15,28 +15,28 @@ SpaceX is holding a remarkable position in the commercial space industry as a re
  3. Can we estimate the cost of a launch by predicting whether the first stage will land?
 ## Jupyter Notebooks
 
-[Data Collection from SpaceX Rest API](https://github.com/rodrigoalvamat/applied-data-science-capstone/blob/master/data-dollection-api.ipynb)
+[Data Collection from SpaceX Rest API](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/blob/master/notebooks/data-dollection-api.ipynb)
 
-[Data Collection using Web Scraping from Wikepedia](https://github.com/rodrigoalvamat/applied-data-science-capstone/blob/master/data-collection-web-scraping.ipynb)
+[Data Collection using Web Scraping from Wikepedia](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/blob/master/notebooks/data-collection-web-scraping.ipynb)
 
-[Exploratory Data Analysis](https://github.com/rodrigoalvamat/applied-data-science-capstone/blob/master/exploratory-data-analysis.ipynb)
+[Exploratory Data Analysis](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/blob/master/notebooks/exploratory-data-analysis.ipynb)
 
-[Exploratory Data Analysis with Data Visualization](https://github.com/rodrigoalvamat/applied-data-science-capstone/blob/master/eda-with-data-visualization.ipynb)
+[Exploratory Data Analysis with Data Visualization](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/blob/master/notebooks/eda-with-data-visualization.ipynb)
 
-[Exploratory Data Analysis with SQL](https://github.com/rodrigoalvamat/applied-data-science-capstone/blob/master/eda-with-sql.ipynb)
+[Exploratory Data Analysis with SQL](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/blob/master/notebooks/eda-with-sql.ipynb)
 
-[Interactive Visual Analytics](http://nbviewer.org/github/rodrigoalvamat/applied-data-science-capstone/blob/master/interactive-visual-analytics.ipynb)
+[Interactive Visual Analytics](http://nbviewer.org/github/rodrigoalvamat/ibm-ata-science-capstone/blob/master/notebooks/interactive-visual-analytics.ipynb)
 
-[Machine Learning Prediction](https://github.com/rodrigoalvamat/applied-data-science-capstone/blob/master/machine-learning-prediction.ipynb)
+[Machine Learning Prediction](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/blob/master/notebooks/machine-learning-prediction.ipynb)
 
 ## Interactive Dashboard
 
-[Source Code](https://github.com/rodrigoalvamat/applied-data-science-capstone/tree/master/dashboard)
+[Source Code](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/tree/master/dashboard)
 
 [Live Application hosted on Google Cloud App Engine](https://ibm-course-capstone.uc.r.appspot.com/)
 
 ## Presentation 
 
-[PDF file](https://github.com/rodrigoalvamat/applied-data-science-capstone/tree/master/presentation/ibm-data-science-capstone.pdf)
+[PDF file](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/tree/master/presentation/ibm-data-science-capstone.pdf)
 
-[PowerPoint file](https://github.com/rodrigoalvamat/applied-data-science-capstone/tree/master/presentation/ibm-data-science-capstone.pptx)
+[PowerPoint file](https://github.com/rodrigoalvamat/ibm-ata-science-capstone/tree/master/presentation/ibm-data-science-capstone.pptx)
