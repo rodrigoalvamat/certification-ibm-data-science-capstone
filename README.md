@@ -40,3 +40,10 @@ SpaceX is holding a remarkable position in the commercial space industry as a re
 [PDF file](https://github.com/rodrigoalvamat/ibm-data-science-capstone/tree/master/presentation/ibm-data-science-capstone.pdf)
 
 [PowerPoint file](https://github.com/rodrigoalvamat/ibm-data-science-capstone/tree/master/presentation/ibm-data-science-capstone.pptx)
+
+## My Certification
+
+- **Name:** IBM Data Science Specialization
+- **Issue Date:** January 2022
+- **Credential ID:** YBMLXAZ4WHEN
+- [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/YBMLXAZ4WHEN)
